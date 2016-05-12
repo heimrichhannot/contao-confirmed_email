@@ -1,6 +1,6 @@
 {
     "name": "heimrichhannot/contao-confirmed_email",
-    "description":"A generic list module using formhybrid for filtering.",
+    "description":"This module offers a confirmed email form field (aka inputType) for Contao.",
     "keywords":["contao", "email", "confirmed", "checked", "confirmation", "field", "form", "developer"],
     "type": "contao-module",
     "homepage":"https://github.com/heimrichhannot/contao-confirmed_email",
